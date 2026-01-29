@@ -7,8 +7,8 @@ for _ in range(n):
     name, number = input().split()
     phone_book[name] = number
     
-for line in sys.stdin:
-    query = line.strip()
+for name in sys.stdin:
+    query = name.strip()
     
     if query in phone_book:
         print(f"{query}={phone_book[query]}")
