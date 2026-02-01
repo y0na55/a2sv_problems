@@ -31,14 +31,6 @@ The repository is organized as follows:
    - For Python: `python solution.py`
 
 
-## Problem Sources
-
-All problems are from [Codeforces](https://codeforces.com/). Each solution file includes:
-- Problem link in comments
-- Problem statement summary
-- Approach explanation
-- Time and space complexity analysis
-
 ## Learning Goals
 
 This repository serves as:
@@ -50,6 +42,3 @@ This repository serves as:
 ## Contributing
 
 This is a personal repository for tracking my progress. However, suggestions for improvements or alternative solutions are welcome via issues or pull requests.
-
-
-
