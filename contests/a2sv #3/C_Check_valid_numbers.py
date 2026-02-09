@@ -42,7 +42,21 @@
 # You can output "YES" and "NO" in any case (for example, strings "yES", "yes", and "Yes" will all be recognized as valid responses).
 
 
+# t = int(input())
+
+# for _ in range(t):
+#     n, m, p, q = map(int, input())
+
+
 t = int(input())
 
 for _ in range(t):
-    n, m, p, q = map(int, input())
+    n,m, p, q = map(int, input().split())
+    
+    if n % p == 0:
+        if m == (n // p) * q:
+            print("YES")
+        else:
+            print("NO")
+    else:
+        print("YES")
