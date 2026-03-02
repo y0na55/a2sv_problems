@@ -1,0 +1,14 @@
+##[pylyzer] succeed /home/jonas/Documents/projects/a2sv-contest/contests/a2sv #6/B_The_Alchemist_s_Transmutation.py 1772455433 244
+.t: Int
+
+.n: Int
+.crystals: global::List!(Never, _: Nat)
+.Energy_level: Never
+
+
+
+
+
+
+
+

@@ -3,12 +3,9 @@ t = int(input())
 for _ in range(t):
     n = int(input())
     crystals = list(map(int, input().split()))
-    e = int(input())
+    Energy_level = int(input())
 
-    if crystals[0] >= crystals[-1]:
-        if crystals[-1] < 0 and e < 0:
-            print("YES")
-        else:
-            print("NO")
-    else:
+    if min(crystals) <= Energy_level <= max(crystals):
         print("YES")
+    else:
+        print("NO")
