@@ -1,0 +1,2 @@
+##[pylyzer] failed /home/jonas/Documents/projects/a2sv-contest/HackerRank/Insertion_sort_part_1.py 1772468759 269
+.insertionSort1: |R :> {2}, Type_8475 <: Structural({.__sub__ = (self: Never, R) -> Int})|(n: Type_8475, arr: global::Dict!({Int: Obj})) -> NoneType
