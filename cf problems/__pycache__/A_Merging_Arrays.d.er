@@ -1,0 +1,26 @@
+##[pylyzer] succeed /home/jonas/Documents/projects/a2sv-contest/cf problems/A_Merging_Arrays.py 1772625452 461
+.___v_global_33701: global::List!(Never, _: Nat)
+.n: Never
+.m: Never
+
+.arr_1: global::List!(Structural({.__le__ = (self: Never, Never) -> Bool}), _: Nat)
+.arr_2: global::List!(Structural({.__le__ = (self: Never, Never) -> Bool}), _: Nat)
+.___v_global_33702: global::Tuple([{0}, {0}])
+.first: {0}
+.second: {0}
+
+.result: global::List!(Structural({.__le__ = (self: Never, Never) -> Bool}), 0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

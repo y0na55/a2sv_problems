@@ -1,0 +1,22 @@
+##[pylyzer] succeed /home/jonas/Documents/projects/a2sv-contest/cf problems/B_Number_of_Smaller.py 1772629610 348
+.___v_global_40711: global::List!(Never, _: Nat)
+.n: Never
+.m: Never
+
+.list_1: global::List!(Structural({.__lt__ = (self: Never, Obj) -> Bool}), _: Nat)
+.list_2: global::List!(Never, _: Nat)
+.first: {0}
+.smaller_nums: global::List!(Nat, 0)
+
+
+
+
+
+
+
+
+
+
+
+
+

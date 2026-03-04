@@ -1,0 +1,20 @@
+##[pylyzer] succeed /home/jonas/Documents/projects/a2sv-contest/cf problems/C_Number_of_Equal.py 1772630601 304
+.___v_global_42267: global::List!(Never, _: Nat)
+.n: Never
+.m: Never
+
+.list_1: global::List!(Never, _: Nat)
+.list_2: global::List!(Never, _: Nat)
+.count: {0}
+.second: {0}
+
+
+
+
+
+
+
+
+
+
+

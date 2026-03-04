@@ -1,0 +1,11 @@
+##[pylyzer] failed /home/jonas/Documents/projects/a2sv-contest/cf problems/B_Ehab_Is_an_Odd_Person.py 1772483712 192
+.n: Int
+.arr: global::List!(Never, _: Nat)
+.has_even: Bool
+.has_odd: Bool
+
+
+
+
+
+

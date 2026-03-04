@@ -1,7 +1,23 @@
-##[pylyzer] succeed /home/jonas/Documents/projects/a2sv-contest/contests/a2sv #6/C_Heist_at_the_99_th_Precinct.py 1772305899 101
+##[pylyzer] failed /home/jonas/Documents/projects/a2sv-contest/contests/a2sv #6/C_Heist_at_the_99_th_Precinct.py 1772524392 670
 .t: Int
 
 .n: Int
-.turn: global::List!(Never, _: Nat)
+.a: global::List!(Never, _: Nat)
+
+.min_value: Never
+.count: {0}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

@@ -1,0 +1,16 @@
+##[pylyzer] failed /home/jonas/Documents/projects/a2sv-contest/cf problems/A_Next_Round.py 1772282227 196
+.___v_global_589: global::Map(Never)
+.n: Never
+.k: Never
+
+.arr: global::List!(Never, _: Nat)
+.kth_score: Never
+.count: {0}
+
+
+
+
+
+
+
+
